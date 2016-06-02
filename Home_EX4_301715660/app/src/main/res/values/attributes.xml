@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomViewFlag">
+        <attr name="flagBackgroundColor" format="color"/>
+        <attr name="flagMainColor" format="color"/>
+        <attr name="scoreColor" format="color"/>
+        <attr name="scoreSize" format="dimension"/>
+    </declare-styleable>
+</resources>
